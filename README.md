@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there, I'm Lance 👋
+
+<div align="justify">
+   My Name is Lance Valle from Philippines.aspiring full stack developer.
+</div>
 
 <!--
 **lance28-beep/lance28-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lance28-beep&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lance28-beep&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+# 📈 Stat
+<div align="justify">
+<img src="https://github-readme-stats.vercel.app/api?username=lance28-beep&show_icons=true&theme=radical" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=lance28-beep&theme=radical&date_format=M%20j%5B%2C%20Y%5D&fire=BFA711" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lance28-beep&layout=compact&theme=radical" />
+  </div>
